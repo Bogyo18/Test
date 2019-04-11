@@ -28,6 +28,6 @@ public class allat{
 	}
 	
 	public allat(){
-		
+		//TODO
 	}
 }
